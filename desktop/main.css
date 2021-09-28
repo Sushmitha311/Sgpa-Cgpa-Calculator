@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header img{
+    width: 100px;
+    height:70px;
+    margin: none;
+    padding-right: 30px;
+}
+body{
+    background-image: url("b.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+}
+header p{
+    margin-right: 100px;
+    padding: right 450px;
+    text-shadow: rgba(70, 128, 12, 0.815) 1px 1px;
+}
+header a{
+    width: 100px;
+    padding-left: 100px;
+}
+header h1{
+    padding: 60px 100px ;
+    text-align: center;
+    font-size: 250px,200px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: rgb(168, 31, 77);
+    text-shadow: rgb(11, 10, 14) 3px 3px;
+    
+}
+.op .option{
+    width: 150px;
+    position: relative;
+    left: 40%;
+    text-align: center;
+    padding:5px;
+    border: black 5px 5px;
+    border-radius: 5px;
+    background-color: rgb(95, 122, 45);
+    box-shadow: rgb(105, 143, 107) 3px 3px;
+    display: center;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn{
+    width:50px;
+    position: relative;
+    left: 50%;
+    padding: 5px 0;
+    text-align: center;
+    background-color: darkblue;
+    box-shadow: rgb(49, 81, 170) 3px 3px;
+    text-decoration: none;
+    color: magenta;
+    border-color: black 10px;
+    border-radius:8px;
+    display: flex;
+
+}
+.btn1{
+    width:50px;
+    position:relative;
+    left: 50%;
+    top:50%;
+    padding: 5px 0;
+    text-align: center;
+    background-color: darkblue;
+    box-shadow: rgb(49, 81, 170) 3px 3px;
+    text-decoration: none;
+    color: magenta;
+    border-color: black 10px;
+    border-radius:8px;
+    display: flex;
+
+}
